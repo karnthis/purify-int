@@ -1,6 +1,12 @@
 # Purify Int
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+
+[![License: MIT](https://badgen.net/github/license/karnthis/purify-int)](https://opensource.org/licenses/MIT)
+[![github: version](https://badgen.net/github/release/karnthis/purify-int)](https://github.com/karnthis/purify-int)
+[![github: last-commit](https://badgen.net/github/last-commit/karnthis/purify-int)](https://github.com/karnthis/purify-int)
+[![npm: version](https://badgen.net/npm/v/purify-int)](placeholder)
+[![npm: downloads](https://badgen.net/npm/dt/purify-int)](placeholder)
 
 ## How To Use
 - Run `npm i purify-int`
