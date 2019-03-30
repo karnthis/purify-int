@@ -5,12 +5,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-#### Added
-#### Changed
+<!-- #### Added -->
+<!-- #### Changed -->
 <!-- #### Removed -->
 
 ## Major Releases:
-### v1.0.0 - 2019 03 09
+### [v1.1.0] - 2019 03 29
 #### Added
 - Added new functions:
 	- asIntIn()
@@ -20,12 +20,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Changed
 - Updated Readme with instuctions for new functions
 
-
 ### v1.0.0 - 2019 03 09
 - Initial Release
 
 ## Minor Releases:
-### v1.0.1 - 2019 03 11
+### [v1.0.1] - 2019 03 11
 #### Added
 - Added repo info to package.json for npm
 #### Changed
@@ -33,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- LINKS -->
 <!-- RELEASES -->
-[Unreleased]: https://github.com/karnthis/purify-int/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/karnthis/purify-int/compare/v1.1.0...HEAD
+[v1.1.0]: https://github.com/karnthis/purify-int/compare/v1.0.1...v1.1.0
 [v1.0.1]: https://github.com/karnthis/purify-int/compare/v1.0.0...v1.0.1
 <!-- ISSUES -->
