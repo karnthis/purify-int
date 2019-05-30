@@ -8,8 +8,8 @@ const asArrayInt = (arr, mode) => {
 }
 
 const asInt = (x, fb = 0) => {
-	const madeInt = parseInt(x)
-	const madeFb = parseInt(fb)
+	const madeInt = Number(x)
+	const madeFb = Number(fb)
 	return (isNaN(madeInt)) ? (isNaN(madeFb)) ? 0 : madeFb : madeInt
 }
 
@@ -26,7 +26,7 @@ const asIntIn = (x) => {
 }
 
 const asIntN = (x) => {
-	const madeInt = parseInt(x)
+	const madeInt = Number(x)
 	return (isNaN(madeInt)) ? null : madeInt
 }
 
