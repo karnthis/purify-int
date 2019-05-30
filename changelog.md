@@ -24,6 +24,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial Release
 
 ## Minor Releases:
+### [v1.1.1] - 2019 03 11
+#### Changed
+- Converted from parseInt() to Number()
+
 ### [v1.0.1] - 2019 03 11
 #### Added
 - Added repo info to package.json for npm
@@ -32,7 +36,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- LINKS -->
 <!-- RELEASES -->
-[Unreleased]: https://github.com/karnthis/purify-int/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/karnthis/purify-int/compare/v1.1.1...HEAD
+[v1.1.1]: https://github.com/karnthis/purify-int/compare/v1.1.0...v1.1.1
 [v1.1.0]: https://github.com/karnthis/purify-int/compare/v1.0.1...v1.1.0
 [v1.0.1]: https://github.com/karnthis/purify-int/compare/v1.0.0...v1.0.1
 <!-- ISSUES -->
